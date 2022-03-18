@@ -9,4 +9,3 @@ deploy:
   bucket: blergatron
   on:
     all_branches: true
-
